@@ -1,7 +1,8 @@
 # Smart-Parking-System-using-YOLO-v8
 
-<p align="center"> 
-<img src="https://github.com/SaroashDS/YOLO-v8-based-smart-parking-space-detection-system/assets/144798692/545973f5-b3d2-4e16-bb0f-eb056a6e7ac3" alt="Project Banner">
+
+<p align="center">
+  <img src="https://github.com/SaroashDS/YOLO-v8-based-smart-parking-space-detection-system/assets/144798692/545973f5-b3d2-4e16-bb0f-eb056a6e7ac3" alt="Project Banner">
 </p>
 
 
@@ -58,4 +59,4 @@ Quantitative Results:
 ## Future prospects
 - Implementing smart notification systems for different parking spaces in the locality
 - Prediciting future parking conditions utilizing historical data
-- Building a complete automation network for parking spaces for better management
+- Building a complete automation network for parking spaces for better management
